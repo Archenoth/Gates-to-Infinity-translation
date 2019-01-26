@@ -1,0 +1,259 @@
+#+TITLE:Gates to Infinity
+#+AUTHOR:Archenoth
+#+EMAIL:archenoth@gmail.com
+:SETTINGS:
+#+STARTUP: hidestars
+#+DRAWERS: KANA SETTINGS
+#+LINK: translate https://translate.google.com/?sl=ja&tl=en&hl=en&q=
+#+LINK: jisho https://jisho.org/search/
+#+TAGS: Hiragana(h) Katakana(k) Kanji(g) Study(s) Code(c) drill(d)
+#+OPTIONS: ^:nil H:3 p:nil tags:not-in-toc todo:nil toc:nil
+#+PROPERTY: header-args :exports both :eval never-export
+#+LANGUAGE: jp
+#+LATEX_CLASS: japanese
+#+LATEX_HEADER: \usepackage{textcomp}
+#+LATEX_HEADER: \usepackage{parskip}
+#+LATEX_HEADER: \usemintedstyle{friendly}
+#+LATEX_HEADER: \renewcommand{\contentsname}{Table of Contents}
+#+TOC: headlines 3
+#+LATEX: \pagebreak
+:END:
+
+Here we are! Gates to Infinity! A game I enjoyed a lot!
+
+Some peeps feel that this was the weakest Pokemon Mystery Dungeon game, but I'm not them, so I'm gonna spend an unreasonable amount of time perusing this game in a language I am actually Very Bad at.
+
+Unlike my Pokemon Green translation I lost steam on not long after starting, I'm going to not translate every setting and menu unless it's personally useful to me. You're welcome to come along for the ride though!
+
+So~! Time so start, はじめから!
+
+(Also, I've decided not to count dots in text exactly or anything, because that got annoying fast)
+#+BEGIN_QUOTE
+（......）
+（...............）
+（............................）
+（こ ここは....）
+（ここは どこたろう.....）
+（..............）
+（もしかして...夢の中....?）
+（自分の夢の中.....なのかな....?）
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+(...)
+(.........)
+(............)
+(Th...this place is...)
+(Where am I?)
+(.........)
+(Could it be.....a dream?)
+(Is it really.....my dream.....?)
+#+END_QUOTE
+
+- だろう is basically used like です, [[http://www.guidetojapanese.org/certainty.html#part4][except it expresses a pretty strong uncertainty.]]
+- The "中.....なのかな" is actually parsed like "中な の かな" all together, and expresses more uncertainty
+
+
+The mysterious thing ahead kinda pulsates.
+
+#+BEGIN_QUOTE
+（....！今のは....!）
+（[[jisho:まちがい][まちがい]]ない。[[jisho:たしかに][たしかに]]今 声が.......）
+（どこからか....声が[[jisho:聞こえて][聞こえて]]くる.....）
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+(...! Just now, that was...!)
+(No mistake. That voice just now was......)
+(Where...? This voice I'm starting to hear....)
+#+END_QUOTE
+
+- I think まちがいない is parsed like [[jisho:間違い][間違い]] ない.
+- てくる is showing a verb [[https://www.renshuu.org/grammar/82/%E3%81%A6%C2%A0%E3%81%8F%E3%82%8B%C2%A0][that's happening over time]]. (Coming towards you or your perspective.)
+
+
+The mysterious pulsating thing starts pulsating continuously, and you hear:
+
+#+BEGIN_QUOTE
+......あなた......
+今 声を聞いている あなた.....
+もしかして あなたは....人間でしょうか？
+もし そうであればお願いです 私達をたすけてほしい
+ポケモンの世界を助けてほしいのです
+ポケモンのせか....
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+.....You.......
+The one hearing my voice now, you....
+Could you possibly be...a human, maybe?
+If this is the case, please. We want you to save us
+We want you to save the Pokemon world.
+The Pokemon wor...
+#+END_QUOTE
+
+
+And then it cuts out. And suddenly a sudden darker thing appears and you see:
+
+#+BEGIN_QUOTE
+助けてッ！！！
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+HELP!!!
+#+END_QUOTE
+
+
+Before seeing a Munna being chased by a Hydreigon, and possibly caught--the screen goes to black.
+
+#+BEGIN_QUOTE
+（.....! 今 見えたものは一体.....）
+（何だったんたろう.....今のは...）
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+(....! Just now, what I was just able to see, what the heck...)
+(What that was...just now...)
+#+END_QUOTE
+
+- 見える is potential, which is why it was "able to see", and not simply "saw".
+- In 今のは, the の just turns the 今 adjective into a noun.
+
+
+Then the screen fades to what looks like a blurry humanoid shape.
+
+#+BEGIN_QUOTE
+（.....今度は もやが.....）
+（あれ...? あそこに [[jisho:うっすら][うっすら]]と 見えるの....）
+（あれは もしかして.....自分....?）
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+(...this time, the haze is...)
+(What's that..? It seems I can faintly see over there in the haze...)
+(That over there, could it possibly be....me...?)
+#+END_QUOTE
+
+- The と in うっすらと is actually a part of [[https://www.renshuu.org/grammar/651/%E3%81%A8%C2%A0%E3%81%BF%E3%81%88%E3%82%8B%C2%A0][とみえる]], which means "It seems that..."
+
+
+There is a sound.
+
+#+BEGIN_QUOTE
+（....!）
+（じ...自分の [[jisho:すがた][すがた]]が [[jisho:ゆがんで][ゆがんで]]....）
+（何かに[[jisho:変る][変る]]ような....）
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+(....!)
+(M...My shape is distorting...)
+(It seems like it's transforming into something...)
+#+END_QUOTE
+
+- I think ような is just [[https://www.renshuu.org/grammar/96/%E3%82%88%E3%81%86%C2%A0%E3%81%A0%C2%A0][ようだ]], except [[https://jisho.org/word/%E3%81%AA][emphasized emotionally a little]] maybe..?
+
+
+Then I get to pick a Pokemon.
+
+If you've seen me anywhere on the internet, ever, this probably wouldn't surprise you, but I picked ミジュマル!
+うん！ [[jisho:よろしい][よろしい]]です！
+The haze clears, and you see Oshawott...you!
+
+#+BEGIN_QUOTE
+（じ...自分の [[jisho:すがた][すがた]]が...）
+（ミジュマルに.....！！）
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+(My shape is...)
+(now Oshawott....!!)
+#+END_QUOTE
+
+
+You seem to be standing in what looks like clouds, with a large blue swirly floor, and walk up to it.
+
+#+BEGIN_QUOTE
+（や [[jisho:やっぱり][やっぱり]]....）
+（やっぱり ミジュマルになっている....）
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+(I-I thought so...)
+(I knew it, I've become Oshawott...)
+#+END_QUOTE
+
+- [[http://maggiesensei.com/2010/12/14/repost-%EF%BC%9A%E3%82%84%E3%81%A3%E3%81%B1%E3%82%8A-yappari-mini-lesson49/][Handy やっぱり guide]].
+
+
+The intro music fades, as a pulsing shiny dot appears accompanied by pulsing shiny dot sound effects.
+
+#+BEGIN_QUOTE
+（あっ....[[jisho:なにか][なにか]]光が...）
+（[[jisho:なんと][なんと]][[jisho:なく][なく]]だけど....）
+（さっきの「助けて！」[[jisho:っていう][っていう]]声はあそこから....）
+（あそこから[[jisho:聞こえてきた][聞こえてきた]][[jisho:気がする][気がする]]....）
+（[[jisho:たしか][たしか]] ポケモンの世界を助けてほしいとか言ってたような....）
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+(Ah....some light is...)
+(There's something making a sound, but...)
+(The previous "Help me!"-saying voice came from over there....)
+(I feel like I could hear is from over there....)
+(I'm certain, "I want you to save the Pokemon World" is what they said it seems.)
+#+END_QUOTE
+
+
+You step towards the light, the sound stops, and you're taken away by a strange portal that suddenly opens up under you.
+
+#+BEGIN_QUOTE
+（うわああぁぁぁぁぁーーーーっ！！）
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+(Waaahhhhhhhhhhh!!)
+#+END_QUOTE
+
+
+You start falling from the sky. (I didn't quite catch this one since you can't go to the home menu when the text box was up)
+
+#+BEGIN_QUOTE
+わあああああああ！！
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+WAAAAAAAAAAAA!!
+#+END_QUOTE
+
+
+You fall really *really* far.
+
+#+BEGIN_QUOTE
+（イテテテ！目から星が....! 何も見えないよ...!）
+???: キ キミ....! だいじょうぶ！？
+???: しっかりしてよ！ねえ！！
+（.....声が聞こえる....）
+（でも たれだろう....?）
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+(OW OW OW OW OW! I see stars...! I can't see anything else...!)
+???: Y-you...! Are you alright!?
+???: Hold on! Hey!!
+(....I hear a voice.....)
+(But, who is it...?)
+#+END_QUOTE
+
+- Closest thing for しっかりしてよ on Jisho seems to be [[https://jisho.org/word/%E3%81%97%E3%81%A3%E3%81%8B%E3%82%8A%E3%81%97%E3%82%8D][this]], except not command form
+
+
+You see a blurred sky, with a blurred figure standing above you.
+
+#+BEGIN_QUOTE
+（....! だんだん見えるようになってきた...）
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+(....!)
+#+END_QUOTE
